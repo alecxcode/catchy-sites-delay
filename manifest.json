@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "CatchySitesDelay",
-  "version": "0.3",
+  "version": "0.4",
   "description": "Makes a delay for some websites to not waste your time",
   "icons": {
     "48": "icon.png"
