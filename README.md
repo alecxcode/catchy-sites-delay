@@ -16,4 +16,4 @@ The extension works in [Firefox Developer Edition](https://www.mozilla.org/firef
 xpinstall.signatures.required = False
 ```
 
-To install the extension you need to zip \*.js, \*.json, and \*.png files, and then install the output zip file (or just [xpi file](catchy.xpi), which is basically a zip, from the repository) with **Install Add-on from File...** menu command from the Firefox Add-ons page (`about:addons`).
+To install the extension you need to zip \*.js, \*.json, and \*.png files, and then install the output zip file (or just [xpi file](catchy.xpi?raw=1), which is basically a zip, from the repository) with **Install Add-on from File...** menu command from the Firefox Add-ons page (`about:addons`).
